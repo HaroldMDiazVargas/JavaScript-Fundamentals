@@ -7,7 +7,6 @@ console.log(max);
 function getMax(array){
     if (array.lenght === 0) return undefined;
 
-
     return array.reduce((a,b) => (a > b)? a:b);
 
 }
