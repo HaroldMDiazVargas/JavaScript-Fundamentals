@@ -1,2 +1,3 @@
 # JavaScript-Fundamentals
-Basic JS Exercises
+
+Basic and advanced js exercises
